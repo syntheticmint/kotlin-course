@@ -68,7 +68,7 @@ val booleanFour: Boolean = false // false
 
 val charFour: Char = 'x' // 'x'
 
-val byteTwo: Byte = 314 // 314
+val intOne: Int = 314 // 314
 
 val longSix: Long = 123456789123456789L // 123456789123456789L
 
