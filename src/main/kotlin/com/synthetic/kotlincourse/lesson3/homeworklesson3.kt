@@ -1,4 +1,4 @@
-package kotlincourse.synthetiс.kotlincourse.lesson3
+package com.synthetic.kotlincourse.lesson3
 
 val eventName: String = "Hackathon Survival" //Название мероприятия
 

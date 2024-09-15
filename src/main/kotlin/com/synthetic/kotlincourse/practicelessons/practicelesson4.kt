@@ -1,4 +1,4 @@
-package kotlincourse.sythetic.practicelessons
+package com.synthetic.kotlincourse.practicelessons
 
 val myInt: Int = 2147483647
 val myInt: Int? = null
