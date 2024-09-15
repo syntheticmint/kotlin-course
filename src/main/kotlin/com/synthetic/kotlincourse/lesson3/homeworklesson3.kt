@@ -12,8 +12,7 @@ private var budget: String = {
     var cathering: Double = 99.99
     var security: Double = 69.99
     var prizes: String = "iPad, iPhone, Money"
-    var other:
-} //Подробный бюджет мероприятия, включая расходы на оборудование, кейтеринг и другие операционные расходы.
+    var other: } //Подробный бюджет мероприятия, включая расходы на оборудование, кейтеринг и другие операционные расходы.
 
 var quantityOfParticipates: Int = 0
     get() = field
