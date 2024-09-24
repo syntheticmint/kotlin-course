@@ -22,7 +22,7 @@ val doubleTwo: Double = -0.001 // -0.001
 
 val stringTwo: String = "OpenAI" // "OpenAI"
 
-val anyOne: Any = “true” // “true”
+val anyOne: Any = "true" // true
 
 val charTwo: Char = '9' // '9'
 
@@ -52,9 +52,9 @@ val stringFour: String = "SpaceX" // "SpaceX"
 
 val booleanThree: Boolean = true // true
 
-val anyTwo: Any = “🤯” // “🤯”
+val anyTwo: Any = "🤯" // “🤯”
 
-val anyThree: Any = ‘65535’ // ‘65535’
+val anyThree: Any = "65535"// ‘65535’
 
 val longFive: Long = 72057594037927935L // 72057594037927935L
 
